@@ -9,10 +9,3 @@
 | 欧式期权  | 香草  |
 | 美式期权  | 香草 |
 | 亚式期权  | 奇异  |
-
-```javascript
-function test()
-{
-    console.log("Hello world!");
-}
-```
